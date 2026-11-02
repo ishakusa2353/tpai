@@ -1,0 +1,6 @@
+{
+  "name": "TradePilot AI Assistant",
+  "description": "TradePilot Voice AI Assistant - Premium real-time voice conversation, camera vision, screen understanding, and license activation by Ishak Nayeem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

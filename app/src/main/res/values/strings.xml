@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TradePilot</string>
+    <string name="app_full_name">TradePilot AI Assistant</string>
+    <string name="app_tagline">Trade Smarter with AI</string>
+    <string name="developer_name">Ishak Nayeem</string>
+    <string name="developer_alias">Ishak Bhai</string>
+    <string name="developer_role">Founder &amp; Developer</string>
+    <string name="powered_by_gemini">Powered by Google Gemini</string>
+</resources>
